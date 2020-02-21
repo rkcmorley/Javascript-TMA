@@ -4,6 +4,7 @@ function getMetricUnits(kilometres, litres) {
     let finalResult = metricUnits.toFixed(2);
     console.log("Your car has a fuel economy of " + finalResult + " litres per hundred kilometres.");
 }
+
 getMetricUnits(500, 52.28);
 
 
@@ -16,4 +17,5 @@ function getImperialUnits(kilometres, litres) {
     let finalResult = imperialUnits.toFixed(2);
     console.log("Your car has a fuel economy of " + finalResult + " gallons per hundred miles.");
 }
+
 getImperialUnits(500, 52.28);
