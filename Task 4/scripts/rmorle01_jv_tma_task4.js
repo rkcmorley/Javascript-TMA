@@ -34,7 +34,7 @@ function getTheDeepestLake() {
 
 function convertFathomToMetre() {
     let fathom = getTheDeepestLake().fathom;
-    let convertToMetre = fathom * 1.829;
+    let convertToMetre = fathom * 1.8288;
     return convertToMetre.toFixed(2);
 }
 

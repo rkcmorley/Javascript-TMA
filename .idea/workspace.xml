@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be2ba8c3-0ee2-401d-969d-025d9d69c560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Task 4/scripts/rmorle01_jv_tma_task4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 4/scripts/tma_t4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 4/tma_t4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task 4/rmorle01_jv_tma_task4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 4/scripts/rmorle01_jv_tma_task4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Task 4/scripts/rmorle01_jv_tma_task4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <workItem from="1582034160374" duration="10421000" />
       <workItem from="1582235133649" duration="166000" />
       <workItem from="1582239910724" duration="615000" />
-      <workItem from="1582288885423" duration="12257000" />
+      <workItem from="1582288885423" duration="13437000" />
     </task>
     <servers />
   </component>
