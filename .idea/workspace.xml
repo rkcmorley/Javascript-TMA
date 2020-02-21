@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be2ba8c3-0ee2-401d-969d-025d9d69c560" name="Default Changelist" comment="" />
+    <list default="true" id="be2ba8c3-0ee2-401d-969d-025d9d69c560" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Task 4/scripts/rmorle01_jv_tma_task4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 4/scripts/tma_t4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 4/tma_t4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task 4/rmorle01_jv_tma_task4.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Xz1Ytf1is6S70jCwZbs05yRQyb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +32,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RunManager">
+    <configuration name="JS Debug" type="JavascriptDebugType" uri="http://localhost:63342/jv_tma_resources/Task 4/rmorle01_jv_tma_task4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -33,11 +47,91 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582034159129</updated>
-      <workItem from="1582034160374" duration="10282000" />
+      <workItem from="1582034160374" duration="10421000" />
+      <workItem from="1582235133649" duration="166000" />
+      <workItem from="1582239910724" duration="615000" />
+      <workItem from="1582288885423" duration="12257000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582298883805">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582298883805" />
+    <state width="1628" height="324" key="GridCell.Tab.0.bottom" timestamp="1582324333971">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333971" />
+    <state width="1628" height="324" key="GridCell.Tab.0.center" timestamp="1582324333970">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333970" />
+    <state width="1628" height="324" key="GridCell.Tab.0.left" timestamp="1582324333969">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333969" />
+    <state width="1628" height="324" key="GridCell.Tab.0.right" timestamp="1582324333970">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333970" />
+    <state width="1628" height="324" key="GridCell.Tab.1.bottom" timestamp="1582324333972">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333972" />
+    <state width="1628" height="324" key="GridCell.Tab.1.center" timestamp="1582324333972">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333972" />
+    <state width="1628" height="324" key="GridCell.Tab.1.left" timestamp="1582324333971">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333971" />
+    <state width="1628" height="324" key="GridCell.Tab.1.right" timestamp="1582324333972">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333972" />
+    <state width="1628" height="324" key="GridCell.Tab.2.bottom" timestamp="1582324333973">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333973" />
+    <state width="1628" height="324" key="GridCell.Tab.2.center" timestamp="1582324333973">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333973" />
+    <state width="1628" height="324" key="GridCell.Tab.2.left" timestamp="1582324333973">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333973" />
+    <state width="1628" height="324" key="GridCell.Tab.2.right" timestamp="1582324333973">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333973" />
+    <state width="1628" height="324" key="GridCell.Tab.3.bottom" timestamp="1582324333974">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.3.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333974" />
+    <state width="1628" height="324" key="GridCell.Tab.3.center" timestamp="1582324333974">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.3.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333974" />
+    <state width="1628" height="324" key="GridCell.Tab.3.left" timestamp="1582324333973">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.3.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333973" />
+    <state width="1628" height="324" key="GridCell.Tab.3.right" timestamp="1582324333974">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1628" height="324" key="GridCell.Tab.3.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582324333974" />
+    <state x="404" y="23" width="872" height="1032" key="search.everywhere.popup" timestamp="1582298763583">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="404" y="23" width="872" height="1032" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1582298763583" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jv_tma_resources$JS_Debug.dat" NAME="JS Debug Coverage Results" MODIFIED="1582314094811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
