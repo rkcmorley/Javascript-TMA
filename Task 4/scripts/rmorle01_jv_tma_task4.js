@@ -27,8 +27,8 @@ function getTheDeepestLake() {
             }
         ];
 
-    return lakes.reduce(function (a, b) {
-        return a.fathom > b.fathom ? a : b
+    return lakes.reduce(function (lakeA, lakeB) {
+        return lakeA.fathom > lakeB.fathom ? lakeA : lakeB
     });
 }
 
